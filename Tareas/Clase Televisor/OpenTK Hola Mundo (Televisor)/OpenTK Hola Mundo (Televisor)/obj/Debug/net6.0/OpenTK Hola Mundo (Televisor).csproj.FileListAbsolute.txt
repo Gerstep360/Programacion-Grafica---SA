@@ -1,0 +1,24 @@
+C:\Users\Gerstep\source\repos\OpenTK Hola Mundo (Televisor)\OpenTK Hola Mundo (Televisor)\bin\Debug\net6.0\OpenTK Hola Mundo (Televisor).exe
+C:\Users\Gerstep\source\repos\OpenTK Hola Mundo (Televisor)\OpenTK Hola Mundo (Televisor)\bin\Debug\net6.0\OpenTK Hola Mundo (Televisor).deps.json
+C:\Users\Gerstep\source\repos\OpenTK Hola Mundo (Televisor)\OpenTK Hola Mundo (Televisor)\bin\Debug\net6.0\OpenTK Hola Mundo (Televisor).runtimeconfig.json
+C:\Users\Gerstep\source\repos\OpenTK Hola Mundo (Televisor)\OpenTK Hola Mundo (Televisor)\bin\Debug\net6.0\OpenTK Hola Mundo (Televisor).dll
+C:\Users\Gerstep\source\repos\OpenTK Hola Mundo (Televisor)\OpenTK Hola Mundo (Televisor)\bin\Debug\net6.0\OpenTK Hola Mundo (Televisor).pdb
+C:\Users\Gerstep\source\repos\OpenTK Hola Mundo (Televisor)\OpenTK Hola Mundo (Televisor)\obj\Debug\net6.0\OpenTK Hola Mundo (Televisor).csproj.AssemblyReference.cache
+C:\Users\Gerstep\source\repos\OpenTK Hola Mundo (Televisor)\OpenTK Hola Mundo (Televisor)\obj\Debug\net6.0\OpenTK Hola Mundo (Televisor).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gerstep\source\repos\OpenTK Hola Mundo (Televisor)\OpenTK Hola Mundo (Televisor)\obj\Debug\net6.0\OpenTK Hola Mundo (Televisor).AssemblyInfoInputs.cache
+C:\Users\Gerstep\source\repos\OpenTK Hola Mundo (Televisor)\OpenTK Hola Mundo (Televisor)\obj\Debug\net6.0\OpenTK Hola Mundo (Televisor).AssemblyInfo.cs
+C:\Users\Gerstep\source\repos\OpenTK Hola Mundo (Televisor)\OpenTK Hola Mundo (Televisor)\obj\Debug\net6.0\OpenTK Hola Mundo (Televisor).csproj.CoreCompileInputs.cache
+C:\Users\Gerstep\source\repos\OpenTK Hola Mundo (Televisor)\OpenTK Hola Mundo (Televisor)\obj\Debug\net6.0\OpenTK Hola Mundo (Televisor).csproj.CopyComplete
+C:\Users\Gerstep\source\repos\OpenTK Hola Mundo (Televisor)\OpenTK Hola Mundo (Televisor)\obj\Debug\net6.0\OpenTK Hola Mundo (Televisor).dll
+C:\Users\Gerstep\source\repos\OpenTK Hola Mundo (Televisor)\OpenTK Hola Mundo (Televisor)\obj\Debug\net6.0\refint\OpenTK Hola Mundo (Televisor).dll
+C:\Users\Gerstep\source\repos\OpenTK Hola Mundo (Televisor)\OpenTK Hola Mundo (Televisor)\obj\Debug\net6.0\OpenTK Hola Mundo (Televisor).pdb
+C:\Users\Gerstep\source\repos\OpenTK Hola Mundo (Televisor)\OpenTK Hola Mundo (Televisor)\obj\Debug\net6.0\OpenTK Hola Mundo (Televisor).genruntimeconfig.cache
+C:\Users\Gerstep\source\repos\OpenTK Hola Mundo (Televisor)\OpenTK Hola Mundo (Televisor)\obj\Debug\net6.0\ref\OpenTK Hola Mundo (Televisor).dll
+C:\Users\Gerstep\source\repos\OpenTK Hola Mundo (Televisor)\OpenTK Hola Mundo (Televisor)\bin\Debug\net6.0\OpenTK.GLControl.dll
+C:\Users\Gerstep\source\repos\OpenTK Hola Mundo (Televisor)\OpenTK Hola Mundo (Televisor)\bin\Debug\net6.0\OpenTK.dll
+C:\Users\Gerstep\source\repos\OpenTK Hola Mundo (Televisor)\OpenTK Hola Mundo (Televisor)\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Gerstep\source\repos\OpenTK Hola Mundo (Televisor)\OpenTK Hola Mundo (Televisor)\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Gerstep\source\repos\OpenTK Hola Mundo (Televisor)\OpenTK Hola Mundo (Televisor)\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Gerstep\source\repos\OpenTK Hola Mundo (Televisor)\OpenTK Hola Mundo (Televisor)\bin\Debug\net6.0\OpenTK.Mathematics.dll
+C:\Users\Gerstep\source\repos\OpenTK Hola Mundo (Televisor)\OpenTK Hola Mundo (Televisor)\bin\Debug\net6.0\OpenTK.Core.dll
+C:\Users\Gerstep\source\repos\OpenTK Hola Mundo (Televisor)\OpenTK Hola Mundo (Televisor)\bin\Debug\net6.0\OpenTK.Windowing.Common.dll
